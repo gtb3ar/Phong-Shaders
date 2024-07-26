@@ -1,0 +1,42 @@
+﻿  CommonMath.cpp
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\CommonMath.cpp(28,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CommonObject.cpp
+  CommonShape.cpp
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\CommonShape.cpp(154,56): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+  CommonStruct.cpp
+  Helpers.cpp
+  Main.cpp
+  Game.cpp
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(93,55): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(96,53): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(113,103): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(137,127): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(141,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(142,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(168,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(194,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(195,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(208,87): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Game.cpp(208,72): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  PhongShaders.cpp
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(29,20): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(30,20): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(31,20): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(42,83): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(42,68): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(42,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(86,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(87,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(89,21): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(90,21): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(91,21): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(140,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(159,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(159,44): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(159,27): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Raycasters.cpp
+  Generating Code...
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\Raycasters.cpp(163): warning C4715: 'Raycast3D::DetectObjectCollision': not all control paths return a value
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\PhongShaders.cpp(94): warning C4715: 'PhongShaders::ApplyFresnelLens': not all control paths return a value
+C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\Game\CommonMath.cpp(83): warning C4715: 'CrossProduct': not all control paths return a value
+  Game.vcxproj -> C:\Users\mrspo\Documents\GitHub\Phong Shaders\Raycasting\x64\Debug\Game.exe
