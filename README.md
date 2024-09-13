@@ -16,7 +16,7 @@ Phong shading enhances the visual realism of 3D objects by simulating the way li
 - <b>C++</b> 
   - SFML (Multi Media Library)
 
-<h2>See for yourself:</h2>
+<h2>Demo:</h2>
 
 A point light, orbiting two balls: <br/>
   
